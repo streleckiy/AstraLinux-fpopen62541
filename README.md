@@ -1,6 +1,5 @@
-# fpopen62541
+# AstraLinux fpopen62541
+FreePascal Wrapper для open62541 OPC UA клиента и сервера вместе со скомпилированным open62541 под AstraLinux.
 
-
-fpopen62541 is a Freepascal wrapper for open62541 OPC UA client and server.
-
-It's licensed under the Mozilla Public License v2.0 (MPLv2)
+## О том, на что стоит обратить внимание.
+> Уже содержит необходимую для работы **libopen62541.so**, но данный файл нужно перенести в **/lib**.
